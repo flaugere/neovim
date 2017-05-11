@@ -133,6 +133,7 @@ let g:php_cs_fixer_php_path = ''
   set nobackup
   set nowb
   set mouse=a
+  set list                " Show invisible character
 
   " Final command
   autocmd InsertEnter * :set nocul                                          "Remove cursorline highlight
