@@ -21,6 +21,7 @@ Plug 'leafgarland/typescript-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-fugitive'
 " PHP
 Plug 'padawan-php/deoplete-padawan', { 'do': 'composer install' }
 
