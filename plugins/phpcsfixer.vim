@@ -1,4 +1,4 @@
-let g:php_cs_fixer_command = 'php-cs-fixer fix'
+let g:php_cs_fixer_command = 'php-cs-fixer fix --rules=@Symfony'
 
 fun! PhpCsFixerFix(path)
     let command = g:php_cs_fixer_command.' '.a:path

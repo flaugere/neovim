@@ -86,9 +86,6 @@ else
         \ },
       \ 'fallback': 'find %s -type f'
       \ }
-  " Phpcsfixer
-let g:php_cs_fixer_path = 'php-cs-fixer'
-let g:php_cs_fixer_php_path = ''
 
 "------ Mapping ------------
   map <Leader>n <plug>NERDTreeTabsToggle<CR>
