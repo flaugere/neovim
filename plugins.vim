@@ -24,6 +24,8 @@ Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive'
 " PHP
 Plug 'padawan-php/deoplete-padawan', { 'do': 'composer install' }
+" WakaTime
+Plug 'wakatime/vim-wakatime'
 
 " Initialize plugin system
 call plug#end()
