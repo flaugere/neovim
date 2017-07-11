@@ -97,6 +97,8 @@ else
   " switch tab
   nnoremap <S-right> :tabn<CR>
   nnoremap <S-left> :tabp<CR>
+  " Escape terminal
+  tnoremap <Esc> <C-\><C-n>
 
 
   " Neovim config
