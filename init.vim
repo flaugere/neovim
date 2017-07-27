@@ -99,7 +99,8 @@ else
   nnoremap <S-left> :tabp<CR>
   " Escape terminal
   tnoremap <Esc> <C-\><C-n>
-
+  " Switch
+  noremap <TAB>   <C-W>w
 
   " Neovim config
   set showcmd             " Show (partial) command in status line.
