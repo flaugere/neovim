@@ -19,3 +19,7 @@ pip install neovim
 ** PHP
 
 Install php-cs-fixer : https://github.com/FriendsOfPHP/PHP-CS-Fixer#globally-manual
+
+** Pour les fonts manquantes (Powerline)
+
+Suivre la procédure d'installation : https://github.com/powerline/fonts
